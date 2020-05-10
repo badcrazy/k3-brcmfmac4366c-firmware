@@ -1,1 +1,0 @@
-https://static.adguard.com/adguardhome/release/AdGuardHome_linux_armv5.tar.gz
